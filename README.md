@@ -1,7 +1,7 @@
 ## Pinned repos:
 
 ## IoT:
-* [**Complexity**](https://github.com/mayhd3/Complexity)(**Arduino/C++**) - Arduino programs running in the Complexity escape rooms in Farmington.
+* [**Complexity**](https://github.com/mayhd3/Complexity) **(Arduino/C++)** - Arduino programs running in the Complexity escape rooms in Farmington.
 
 ## Hobby:
 * [**Reis**](https://github.com/mayhd3/Reis) - Voxel renderer and game engine experiment. **Java/LWJGL3**

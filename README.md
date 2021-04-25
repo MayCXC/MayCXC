@@ -1,16 +1,27 @@
-### Hi there 👋
+Pinned repos:
 
-<!--
-**mayhd3/mayhd3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##IoT:
+###[Complexity](https://github.com/mayhd3/Complexity)
 
-Here are some ideas to get you started:
+####Arduino/C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Hobby:
+###[Reis](https://github.com/mayhd3/Reis)
+
+###[PLEBS](https://github.com/mayhd3/PLEBS)
+
+##School:
+###[WaveGame2019](https://github.com/mayhd3/WaveGame2019)
+
+###[stele](https://github.com/mayhd3/stele)
+
+###[FRC-3464-2018](https://github.com/mayhd3/FRC-3464-2018)
+
+##Research:
+
+##Competition:
+###[COWOL](https://github.com/mayhd3/COWOL)
+
+###[Advent of Code 2020](https://github.com/mayhd3/Advent-of-Code-2020)
+
+###[The-Opiate-Crisis](https://github.com/mayhd3/The-Opiate-Crisis)

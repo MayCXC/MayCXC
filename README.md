@@ -1,7 +1,7 @@
 # Pinned
 
 ## IoT:
-* [**Complexity**](https://github.com/mayhd3/Complexity) *(Arduino/C++)* - Arduino programs running in the Blizzard escape room at Complexity
+* [**Complexity**](https://github.com/mayhd3/Complexity) *(C++/Arduino)* - Arduino programs running in the Blizzard escape room at Complexity
 
 ## Hobby:
 * [**Reis**](https://github.com/mayhd3/Reis) *(Java/LWJGL3)* - Voxel renderer and game engine experiment
@@ -15,10 +15,10 @@
 
 ## Research:
 
-* [**DIPC**](https://github.com/mayhd3/DIPC) *(Python/Matplotlib/Jupyter/Colab)* - Data visualization project for DIPC
+* [**DIPC**](https://github.com/mayhd3/DIPC) *(Python/Matplotlib/Jupyter Notebook/Colab)* - Data visualization project for DIPC
 
 ## Competition:
 * [**COWOL**](https://github.com/mayhd3/COWOL) *(Enterprise COBOL/REXX/Bourne shell)* - CObol WithOut Leave
 
 * [**Advent of Code 2020**](https://github.com/mayhd3/Advent-of-Code-2020) *(Scala)* - Solutions for sixth annual Advent of Code
-* [**The-Opiate-Crisis**](https://github.com/mayhd3/The-Opiate-Crisis) *(Node\.js/Express/Heroku)* - Bobconcatenators CTC 2018 entry
+* [**The-Opiate-Crisis**](https://github.com/mayhd3/The-Opiate-Crisis) *(Node\.js/Vue/Express/Heroku)* - Bobconcatenators CTC 2018 entry

@@ -9,8 +9,6 @@
 * [**PLEBS**](https://github.com/mayhd3/PLEBS) *(Bash)* - Project euLEr in BaSh
 
 ## School:
-* [**stele**](https://github.com/mayhd3/stele) *(GnuCOBOL)* - excerpts from dying languages
-
 * [**WaveGame2019**](https://github.com/mayhd3/WaveGame2019) *(Java/Swing)* - Wave Game for SER225
 
 * [**FRC-3464-2018**](https://github.com/mayhd3/FRC-3464-2018) *(Java/WPILib)* - Team 3464 SimCity's FRC 2018 robot code

@@ -1,14 +1,16 @@
 ## Pinned repos:
 
-### IoT:
+## IoT:
 * #### [Complexity](https://github.com/mayhd3/Complexity)
-
+Arduino programs running in the Complexity escape rooms in Farmington
 #### Arduino/C++
 
-### Hobby:
-### [Reis](https://github.com/mayhd3/Reis)
+## Hobby:
+* ### [Reis](https://github.com/mayhd3/Reis)
+Voxel renderer and game engine experiment
 
-### [PLEBS](https://github.com/mayhd3/PLEBS)
+* ### [PLEBS](https://github.com/mayhd3/PLEBS)
+Project euLEr in BaSh
 
 ## School:
 ### [WaveGame2019](https://github.com/mayhd3/WaveGame2019)

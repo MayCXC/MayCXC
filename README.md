@@ -1,7 +1,7 @@
 # Pinned repos:
 
 ## IoT:
-### * [Complexity](https://github.com/mayhd3/Complexity)
+* ### [Complexity](https://github.com/mayhd3/Complexity)
 
 #### Arduino/C++
 

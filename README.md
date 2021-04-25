@@ -1,11 +1,11 @@
-# Pinned repos:
+## Pinned repos:
 
-## IoT:
-* ### [Complexity](https://github.com/mayhd3/Complexity)
+### IoT:
+* #### [Complexity](https://github.com/mayhd3/Complexity)
 
 #### Arduino/C++
 
-## Hobby:
+### Hobby:
 ### [Reis](https://github.com/mayhd3/Reis)
 
 ### [PLEBS](https://github.com/mayhd3/PLEBS)

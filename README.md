@@ -1,8 +1,8 @@
 ## Pinned repos:
 
 ## IoT:
-* #### [Complexity](https://github.com/mayhd3/Complexity) - Arduino programs running in the Complexity escape rooms in Farmington
-#### Arduino/C++
+* [**Complexity**](https://github.com/mayhd3/Complexity) - Arduino programs running in the Complexity escape rooms in Farmington
+**Arduino/C++**
 
 ## Hobby:
 * ### [Reis](https://github.com/mayhd3/Reis)

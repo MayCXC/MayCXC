@@ -1,7 +1,7 @@
 # Pinned
 
 ## IoT:
-* [**Complexity**](https://github.com/mayhd3/Complexity) *(Arduino/C++)* - Arduino programs running in the Complexity escape rooms
+* [**Complexity**](https://github.com/mayhd3/Complexity) *(Arduino/C++)* - Arduino programs running in the Blizzard escape room at Complexity
 
 ## Hobby:
 * [**Reis**](https://github.com/mayhd3/Reis) *(Java/LWJGL3)* - Voxel renderer and game engine experiment

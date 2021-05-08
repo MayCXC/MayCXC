@@ -1,7 +1,7 @@
+* [**Quick**](https://github.com/mayhd3/Quick) *(C/esp-mdf/elixir/paho.mqtt.javascript)* - Bluetooth LE presence detection meshnet
+
 ## IoT:
 * [**Complexity**](https://github.com/mayhd3/Complexity) *(C++/Arduino)* - Arduino programs running in the Blizzard escape room at Complexity
-
-* [**Quick**](https://github.com/mayhd3/Quick) *(C/esp-mdf/elixir/paho.mqtt.javascript)* - Bluetooth LE presence detection meshnet
 
 ## Hobby:
 * [**Reis**](https://github.com/mayhd3/Reis) *(Java/LWJGL3)* - Voxel renderer and game engine experiment

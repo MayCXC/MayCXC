@@ -11,8 +11,6 @@
 ## School:
 * [**WaveGame2019**](https://github.com/mayhd3/WaveGame2019) *(Java/Swing)* - Wave Game for SER225
 
-* [**FRC-3464-2018**](https://github.com/mayhd3/FRC-3464-2018) *(Java/WPILib)* - Team 3464 SimCity's FRC 2018 robot code
-
 ## Research:
 
 * [**DIPC**](https://github.com/mayhd3/DIPC) *(Python/Matplotlib/Jupyter Notebook/Colab)* - Data visualization project for DIPC
@@ -21,4 +19,7 @@
 * [**COWOL**](https://github.com/mayhd3/COWOL) *(Enterprise COBOL/REXX/Bourne shell)* - CObol WithOut Leave
 
 * [**Advent of Code 2020**](https://github.com/mayhd3/Advent-of-Code-2020) *(Scala)* - Solutions for sixth annual Advent of Code
+
 * [**The-Opiate-Crisis**](https://github.com/mayhd3/The-Opiate-Crisis) *(Node\.js/Vue/Express/Heroku)* - Bobconcatenators CTC 2018 entry
+
+* [**FRC-3464-2018**](https://github.com/mayhd3/FRC-3464-2018) *(Java/WPILib)* - Team 3464 SimCity's FRC 2018 robot code

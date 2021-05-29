@@ -15,7 +15,7 @@
 
 ## Research:
 
-* [**DIPC**](https://github.com/mayhd3/DIPC) *(Python/Matplotlib/Jupyter Notebook/Colab)* - Data visualization project for DIPC
+* [**DIPC**](https://github.com/mayhd3/DIPC) *(Python/Matplotlib/JupyterLab/Colab)* - Data visualization project for DIPC
 
 ## Competition:
 * [**COWOL**](https://github.com/mayhd3/COWOL) *(Enterprise COBOL/REXX/Bourne shell)* - CObol WithOut Leave

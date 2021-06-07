@@ -20,6 +20,6 @@
 ## Competition:
 * [**COWOL**](https://github.com/mayhd3/COWOL) *(Enterprise COBOL/REXX/Bourne shell)* - CObol WithOut Leave
 
-* [**Advent of Code 2020**](https://github.com/mayhd3/Advent-of-Code-2020) *(Scala)* - Solutions for sixth annual Advent of Code
+* [**Advent-of-Code-2020**](https://github.com/mayhd3/Advent-of-Code-2020) *(Scala)* - Solutions for sixth annual Advent of Code
 
 * [**The-Opiate-Crisis**](https://github.com/mayhd3/The-Opiate-Crisis) *(Node\.js/Vue/Express/Heroku)* - Bobconcatenators CTC 2018 entry

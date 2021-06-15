@@ -15,6 +15,8 @@
 
 ## Research:
 
+* [**NSF-REU-2021**](https://github.com/mayhd3/NSF-REU-2021/blob/main/README.md) - Project for the NSF Research Experiences for Undergraduates at TNTech
+
 * [**DIPC**](https://github.com/mayhd3/DIPC) *(Python/Matplotlib/JupyterLab/Colab)* - Data visualization project for DIPC
 
 ## Competition:

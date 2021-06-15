@@ -11,7 +11,7 @@
 ## School:
 * [**WaveGame2019**](https://github.com/mayhd3/WaveGame2019) *(Java/Swing)* - Wave Game project for SER225 by team B3 "Shakey Blakey"
 
-* [**FRC-3464-2018**](https://github.com/mayhd3/FRC-3464-2018) *(Java/WPILib)* - Team 3464 SimCity's FRC 2018 robot code
+* [**FRC-3464-2018**](https://github.com/mayhd3/FRC-3464-2018) *(Java/WPILib)* - Team 3464 SimCity's robot code for FRC 2018
 
 ## Research:
 

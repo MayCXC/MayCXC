@@ -15,7 +15,7 @@
 
 ## Research:
 
-* [**NSF-REU-2021**](https://github.com/mayhd3/NSF-REU-2021/blob/main/README.md) *(Python/Matplotlib/Pandas/Keras)* - ML project for the 2021 NSF REU at TNTech
+* [**NSF-REU-2021**](https://github.com/mayhd3/NSF-REU-2021/blob/main/README.md) *(Python/Numpy/Pandas/Keras)* - ML project for the 2021 NSF REU at TNTech
 
 * [**DIPC**](https://github.com/mayhd3/DIPC) *(Python/Matplotlib/JupyterLab/Colab)* - Data visualization project for DIPC
 

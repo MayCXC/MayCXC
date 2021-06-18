@@ -4,7 +4,7 @@
 * [**Complexity**](https://github.com/mayhd3/Complexity) *(C++/Arduino)* - Arduino programs running in the Blizzard escape room at Complexity
 
 ## Hobby:
-* [**Reis**](https://github.com/mayhd3/Reis) *(Java/LWJGL3)* - Voxel renderer and game engine experiment
+* [**Reis**](https://github.com/mayhd3/Reis) *(Java/LWJGL3/OpenGL)* - Voxel renderer and game engine experiment
 
 * [**PLEBS**](https://github.com/mayhd3/PLEBS) *(Bash)* - Project euLEr in BaSh
 

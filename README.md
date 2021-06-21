@@ -17,7 +17,7 @@
 
 * [**NSF-REU-2021**](https://github.com/mayhd3/NSF-REU-2021) *(Python/Matplotlib/Keras)* - ML theft detection project for the 2021 NSF REU at TNTech
 
-* [**DIPC**](https://github.com/mayhd3/DIPC) *(Python/Matplotlib/ASE)* - Van der Waals heterostructure physical simulation project for DIPC
+* [**DIPC**](https://github.com/mayhd3/DIPC) *(Python/Matplotlib/ASE)* - Van der Waals heterostructure simulation project for DIPC
 
 ## Competition:
 * [**COWOL**](https://github.com/mayhd3/COWOL) *(Enterprise COBOL/REXX/Bourne shell)* - CObol WithOut Leave, entry for IBM MTM 2020

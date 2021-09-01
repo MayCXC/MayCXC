@@ -20,7 +20,7 @@
 * [**DIPC**](https://github.com/mayhd3/DIPC) *(Python/Matplotlib/ASE)* - Van der Waals heterostructure simulation project for DIPC
 
 ## Competition:
-* [**Dyalog-21**](https://github.com/mayhd3/Dyalog-21/tree/main) *(Dyalog APL)* - Solutions for Dyalog's 2021 APL Problem Solving Competition.
+* [**Dyalog-21**](https://github.com/mayhd3/Dyalog-21/tree/main) *(Dyalog APL)* - Solutions for Dyalog's 2021 APL Problem Solving Competition
 
 * [**COWOL**](https://github.com/mayhd3/COWOL) *(Enterprise COBOL/REXX/Bourne shell)* - CObol WithOut Leave, entry for IBM MTM 2020
 

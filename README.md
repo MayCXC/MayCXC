@@ -27,3 +27,5 @@
 * [**Advent-of-Code-2020**](https://github.com/mayhd3/Advent-of-Code-2020) *(Scala)* - Solutions for the sixth annual Advent of Code
 
 * [**The-Opiate-Crisis**](https://github.com/mayhd3/The-Opiate-Crisis) *(Node\.js/Vue/Express/Heroku)* - The Bobconcatenators' entry for CTC 2018
+
+![](https://user-images.githubusercontent.com/9441877/141659285-afb9e53b-c3e3-4bec-a30f-7dc888a8421c.gif)

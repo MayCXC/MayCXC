@@ -1,5 +1,3 @@
-![](https://user-images.githubusercontent.com/9441877/141659204-812e6318-dd1f-4091-bc05-114add7bba96.gif)
-
 ## IoT:
 * [**Quick**](https://github.com/mayhd3/Quick) *(C/esp-mdf/elixir/Eclipse Paho)* - Bluetooth Low Energy presence detection meshnet
 

@@ -33,5 +33,5 @@ ___
 <p align="center">
     <img width="460" height="300" src="https://user-images.githubusercontent.com/9441877/141659285-afb9e53b-c3e3-4bec-a30f-7dc888a8421c.gif">
     <br>
-    <a href="http://dada.compart-bremen.de/item/artwork/1146"><em>GF.E 32-S &#183; Vladimir Bonačić</em></a>
+    <em><a href="http://dada.compart-bremen.de/item/artwork/1146">GF.E 32-S</a>&#183; Vladimir Bonačić</em>
 </p>

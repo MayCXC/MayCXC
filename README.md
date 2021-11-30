@@ -1,7 +1,7 @@
 ## IoT:
 * [**Quick**](https://github.com/mayhd3/Quick) *(C/esp-mdf/elixir/Eclipse Paho)* - Bluetooth Low Energy presence detection meshnet
 
-* [**Complexity**](https://github.com/mayhd3/Complexity) *(C++/Arduino)* - Arduino programs running in the Blizzard escape room at Complexity
+* [**Complexity**](https://github.com/mayhd3/Complexity) *(C++/Arduino)* - Arduino programs for the Blizzard escape room at Complexity
 
 ## Hobby:
 * [**Reis**](https://github.com/mayhd3/Reis) *(Java/LWJGL3/GLSL)* - Voxel renderer and game engine experiment

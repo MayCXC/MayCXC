@@ -33,5 +33,5 @@ ___
 <p align="center">
     <img width="460" height="300" src="https://user-images.githubusercontent.com/9441877/141659285-afb9e53b-c3e3-4bec-a30f-7dc888a8421c.gif">
     <br>
-    <em><a href="https://lifa-research.org/en/artists/vladimir-bonacic/">Vladimir Bonačić</a>, <a href="http://dada.compart-bremen.de/item/artwork/1146">GF.E 32-S</a></em>
+    <em><a href="https://monoskop.org/index.php?title=Vladimir_Bona%C4%8Di%C4%87&oldid=104835">Vladimir Bonačić</a>, <a href="http://dada.compart-bremen.de/item/artwork/1146">GF.E 32-S</a></em>
 </p>

@@ -24,7 +24,7 @@
 
 * [**COWOL**](https://github.com/MayCXC/COWOL) *(Enterprise COBOL/REXX/Bourne shell)* - CObol WithOut Leave, entry for IBM MTM 2020
 
-* [**Advent-of-Code-2020**](https://github.com/MayCXC/Advent-of-Code-2020) *(Scala)* - Solutions for the sixth annual Advent of Code
+* [**AoC-2021**](https://github.com/MayCXC/AoC-2021) *(Scala)* - Solutions for the seventh annual Advent of Code
 
 * [**The-Opiate-Crisis**](https://github.com/MayCXC/The-Opiate-Crisis) *(Node\.js/Vue/Express/Heroku)* - The Bobconcatenators' entry for CTC 2018
 

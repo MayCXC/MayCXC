@@ -1,3 +1,5 @@
+$$ \mathrm{H}(X)=\sum_{x\in{X}}{-p(x)\cdot\log_{2}{(p(x))}} $$
+
 ## IoT:
 * [**Quick**](https://github.com/MayCXC/Quick) *(C/esp-mdf/elixir/Eclipse Paho)* - Bluetooth Low Energy presence detection meshnet
 
@@ -35,7 +37,3 @@ ___
     <br>
     <em><a href="https://monoskop.org/index.php?title=Vladimir_Bona%C4%8Di%C4%87&oldid=104835">Vladimir Bonačić</a>, <a href="http://dada.compart-bremen.de/item/artwork/1146">GF.E 32-S</a></em>
 </p>
-<br>
-
-
-$$ \mathrm{H}(X)=\sum_{x\in{X}}{-p(x)\cdot\log_{2}{(p(x))}} $$

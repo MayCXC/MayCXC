@@ -1,10 +1,10 @@
 $$
 \begin{matrix} 0&0&0&0&0\\\\0&0&0&0&0 \end{matrix}
-\quad
+\qquad
 \begin{matrix} 0&0&0&0&0\\\\0&0&0&0&0 \end{matrix}
 \qquad \operatorname{H}(X)=\sum_{x\in{X}}{-\operatorname{p(x)}\cdot\log_{2}{(\operatorname{p(x)})}} \qquad
 \begin{matrix} 0&0&0&0&0\\\\0&0&0&0&0 \end{matrix}
-\quad
+\qquad
 \begin{matrix} 0&0&0&0&0\\\\0&0&0&0&0 \end{matrix}
 $$
 

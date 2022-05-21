@@ -37,4 +37,4 @@ ___
 </p>
 <br>
 
-$$ \mathrm{H}(X)=-\sum_{i=1}^{n}{\mathrm{P}(x_{i})\log\mathrm{P}(x_{i})} $$
+$$ \mathrm{H}(X)=-\sum_{x \in X}^{n}{\mathrm{P}(x_{i})\log\mathrm{P}(x_{i})} $$

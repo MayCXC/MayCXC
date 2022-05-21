@@ -37,4 +37,4 @@ ___
 </p>
 <br>
 
-$$ \mathrm{H}(X)=\sum_{x\in X}{-p(x) \cdot \log_{2}(p(x))} $$
+$$ \mathrm{H}(X)=\sum_{x\in X}{-p(x) \cdot \log_2 (p(x))} $$

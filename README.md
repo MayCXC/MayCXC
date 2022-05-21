@@ -1,4 +1,8 @@
-$$ \begin{matrix} 0 & 1 & 0 \\\\ 1 & 0 & 1 \end{matrix} \operatorname{H}(X)=\sum_{x\in{X}}{-\operatorname{p(x)}\cdot\log_{2}{(\operatorname{p(x)})}} $$
+$$
+\begin{matrix} 0&0&0&0&0\\\\0&0&0&0&0 \end{matrix}
+\operatorname{H}(X)=\sum_{x\in{X}}{-\operatorname{p(x)}\cdot\log_{2}{(\operatorname{p(x)})}}
+\begin{matrix} 0&0&0&0&0\\\\0&0&0&0&0 \end{matrix}
+$$
 
 ## IoT:
 * [**Quick**](https://github.com/MayCXC/Quick) *(C/esp-mdf/elixir/Eclipse Paho)* - Bluetooth Low Energy presence detection meshnet

@@ -35,3 +35,5 @@ ___
     <br>
     <em><a href="https://monoskop.org/index.php?title=Vladimir_Bona%C4%8Di%C4%87&oldid=104835">Vladimir Bonačić</a>, <a href="http://dada.compart-bremen.de/item/artwork/1146">GF.E 32-S</a></em>
 </p>
+
+${\displaystyle \mathrm {H} (X)=-\sum _{i=1}^{n}{\mathrm {P} (x_{i})\log \mathrm {P} (x_{i})}}$

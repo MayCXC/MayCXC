@@ -1,4 +1,4 @@
-$$ \mathrm{H}(X)=\sum_{x\in{X}}{-p(x)\cdot\log_{2}{(p(x))}} $$
+$$ \operatorname{H}(X)=\sum_{x\in{X}}{-\operatornamep(x)\cdot\log_{2}{(\operatornamep(x))}} $$
 
 ## IoT:
 * [**Quick**](https://github.com/MayCXC/Quick) *(C/esp-mdf/elixir/Eclipse Paho)* - Bluetooth Low Energy presence detection meshnet

@@ -39,4 +39,4 @@ ___
 
 $$ \mathrm{H}(X)=\sum_{x\in X}{-p(x) \cdot \log_2 (p(x))} $$
 
-$$ \href{hmm}{https://github.com/MayCXC} $$
+$$ \text{\href{hmm}{https://github.com/MayCXC}} $$

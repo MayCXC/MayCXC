@@ -36,4 +36,4 @@ ___
     <em><a href="https://monoskop.org/index.php?title=Vladimir_Bona%C4%8Di%C4%87&oldid=104835">Vladimir Bonačić</a>, <a href="http://dada.compart-bremen.de/item/artwork/1146">GF.E 32-S</a></em>
 </p>
 
-$$ H(X)=-\sum_{i=1}^{n} $$
+$$ H(X)=-\sum_{i=1}^{n}{{P}(x_{i})\log {P} (x_{i})} $$

@@ -37,6 +37,6 @@ ___
 </p>
 <br>
 
-\(\require{color}\)
+$$ \(\require{color}\) $$
 
 $$ \mathrm{H}(X)=\sum_{x\in X}{-p(x) \cdot \log_{_{_2}} (p(x))} $$

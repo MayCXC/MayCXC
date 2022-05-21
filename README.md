@@ -39,6 +39,4 @@ ___
 
 $$ \mathrm{H}(X)=-\sum_{i=1}^{n}{\mathrm{P}(x_{i})\log\mathrm{P}(x_{i})} $$
 
-<a href="https://maycxc.github.io/gofl.html">
-$$ e=mc^2 $$
-</a>
+$$ \url{https://maycxc.github.io/gofl.html} $$

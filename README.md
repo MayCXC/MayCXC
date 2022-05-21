@@ -38,5 +38,3 @@ ___
 <br>
 
 $$ \mathrm{H}(X)=\sum_{x\in X}{-p(x) \cdot \log_2 (p(x))} $$
-
-$$ \text{\href{hmm}{https://github.com/MayCXC}} $$

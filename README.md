@@ -1,4 +1,5 @@
 $$
+X=
 \begin{Bmatrix}
 \begin{matrix} 0&0&0&0&1\\\\0&0&1&1&0 \end{matrix} &
 \begin{matrix} 0&0&1&0&1\\\\0&1&0&0&0 \end{matrix} &

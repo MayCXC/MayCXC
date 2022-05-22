@@ -4,7 +4,7 @@ X=
 \begin{matrix} 0&0&0&0&1\\\\0&0&1&1&0 \end{matrix} &
 \begin{matrix} 0&0&1&0&1\\\\0&1&0&0&0 \end{matrix} &
 \dots &
-\operatorname{H}(X)=\sum\limits\_{x\in{X}}{-\operatorname{p}(x)\cdot\log\\_{_2}{(\operatorname{p}(x))}} &
+\operatorname{H}(X)=\sum\limits\_{x\in{X}}{-\operatorname{p}(x)\cdot\log\_{\_{2}}{(\operatorname{p}(x))}} &
 \dots &
 \begin{matrix} 1&1&0&0&1\\\\0&0&1&1&0 \end{matrix} &
 \begin{matrix} 0&1&1&1&1\\\\0&1&0&0&0 \end{matrix}

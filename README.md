@@ -3,7 +3,7 @@ $$
 \begin{matrix} 0&0&0&0&1\\\\0&0&1&1&0 \end{matrix} &
 \begin{matrix} 0&0&1&0&1\\\\0&1&0&0&0 \end{matrix} &
 \dots &
-\operatorname{H}(X)=\sum_{x\in{X}}{-\operatorname{p}(x)\cdot\log_{2}{(\operatorname{p}(x))}} &
+\operatorname{H}(X)=\sum_{_{x\in{X}}}{-\operatorname{p}(x)\cdot\log_{2}{(\operatorname{p}(x))}} &
 \dots &
 \begin{matrix} 1&1&0&0&1\\\\0&0&1&1&0 \end{matrix} &
 \begin{matrix} 0&1&1&1&1\\\\0&1&0&0&0 \end{matrix}

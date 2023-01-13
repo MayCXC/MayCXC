@@ -44,7 +44,7 @@ $$
 ___
 
 <div align="center">
-    <img src="svg.svg">
+    <img width="800" height="400" src="svg.svg">
 </div>
 
 ___

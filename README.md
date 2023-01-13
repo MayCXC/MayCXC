@@ -43,10 +43,6 @@ $$
 
 ___
 
-<img src="tetrix.svg">
-
-___
-
 <p align="center">
     <img width="460" height="300" src="https://user-images.githubusercontent.com/9441877/141659285-afb9e53b-c3e3-4bec-a30f-7dc888a8421c.gif">
     <br>

@@ -1,4 +1,4 @@
-$$
+<!-- $$
 X=
 \begin{Bmatrix}
 \begin{matrix} 0&0&0&0&1\\\\0&0&1&1&0 \end{matrix} &
@@ -9,7 +9,7 @@ X=
 \begin{matrix} 1&1&0&0&1\\\\0&0&1&1&0 \end{matrix} &
 \begin{matrix} 0&1&1&1&1\\\\0&1&0&0&0 \end{matrix}
 \end{Bmatrix}
-$$
+$$ -->
 
 ## IoT:
 * [**Quick**](https://github.com/MayCXC/Quick) *(C/esp-mdf/elixir/Eclipse Paho)* - Bluetooth Low Energy presence detection meshnet

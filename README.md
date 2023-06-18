@@ -10,8 +10,7 @@ X=
 \begin{matrix} 0&1&1&1&1\\\\0&1&0&0&0 \end{matrix}
 \end{Bmatrix}
 $$ -->
-## GPG:
-`curl -s https://github.com/MayCXC.gpg | gpg --import`
+**GPG:** `curl -s https://github.com/MayCXC.gpg | gpg --import`
 
 ## IoT:
 * [**Quick**](https://github.com/MayCXC/Quick) *(C/esp-mdf/elixir/Eclipse Paho)* - Bluetooth Low Energy presence detection meshnet

@@ -46,5 +46,5 @@ __
 <p align="center">
     <img width="460" height="300" src="https://user-images.githubusercontent.com/9441877/141659285-afb9e53b-c3e3-4bec-a30f-7dc888a8421c.gif">
     <br>
-    <em>Vladimir Bonačić<sup><a href="https://monoskop.org/Vladimir_Bona%C4%8Di%C4%87">[1]</a> </sup><sup><a href="https://digitalna-umjetnost-u-hrvatskoj.eu/en/autori/vladimir-bonacic">[2]</a></sup>, <a href="https://zkm.de/en/artwork/gfe-32-ns-0">GF.E 32-NS</a></em>
+    <em>Vladimir Bonačić<sup><a href="https://monoskop.org/Vladimir_Bona%C4%8Di%C4%87">[1]</a></sup><sup><a href="https://digitalna-umjetnost-u-hrvatskoj.eu/en/autori/vladimir-bonacic">[2]</a></sup>, <a href="https://zkm.de/en/artwork/gfe-32-ns-0">GF.E 32-NS</a></em>
 </p>

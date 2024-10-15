@@ -26,6 +26,8 @@ $$ -->
 
 * [**FRC-3464-2018**](https://github.com/MayCXC/FRC-3464-2018) *(Java/WPILib)* - Team 3464 SimCity's robot code for FRC 2018
 
+* [**stele**](https://github.com/MayCXC/stele) *(GnuCOBOL)* - excerpts from dying languages
+
 ## Research:
 
 * [**NSF-REU-2021**](https://github.com/MayCXC/NSF-REU-2021) *(Python/Matplotlib/Keras)* - ML theft detection project for the 2021 NSF REU at TNTech

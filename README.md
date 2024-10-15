@@ -39,6 +39,8 @@ $$ -->
 
 * [**AoC-2021**](https://github.com/MayCXC/AoC-2021) *(Scala)* - Solutions for the seventh annual Advent of Code
 
+* [**AoC-2020**](https://github.com/MayCXC/AoC-2020) *(Scala)* - Solutions for the sixth annual Advent of Code
+
 * [**The-Opiate-Crisis**](https://github.com/MayCXC/The-Opiate-Crisis) *(Node\.js/Vue/Express/Heroku)* - The Bobconcatenators' entry for CTC 2018
 
 ___

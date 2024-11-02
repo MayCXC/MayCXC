@@ -22,7 +22,7 @@ $$ -->
 * [**PLEBS**](https://github.com/MayCXC/PLEBS) *(Bash)* - Project euLEr in BaSh
 
 ## School:
-* [**stele**](https://github.com/MayCXC/stele) *(GnuCOBOL)* - excerpts from dying languages
+* [**stele**](https://github.com/MayCXC/stele) *(GnuCOBOL)* - Excerpts from dying languages
 
 * [**WaveGame2019**](https://github.com/MayCXC/WaveGame2019) *(Java/Swing)* - Wave Game project for SER225 by team B3 "Shakey Blakey"
 

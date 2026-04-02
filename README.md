@@ -23,7 +23,7 @@ $$ -->
 
 * [**kink**](https://github.com/MayCXC/kink) *(Ruby)* - kink is an alternative loop.
 
-* [**envy**](https://github.com/MayCXC/envy) *(POSIX sh)* - stackable and composable sh profiles.
+* [**envy**](https://github.com/MayCXC/envy) *(POSIX Shell)* - stackable and composable sh profiles.
 
 <details>
 <summary>more</summary>

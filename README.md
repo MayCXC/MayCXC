@@ -13,7 +13,7 @@ $$ -->
 
 ## Projects:
 
-* [**osa-mcp**](https://github.com/MayCXC/osa-mcp) *(TS/JXA/Bun)* - MCP server that generates tools from macOS scriptable apps via OSA.
+* [**osa-mcp**](https://github.com/MayCXC/osa-mcp) *(TS/Bun/AppleScript/JXA)* - MCP server that generates tools from macOS scriptable apps via OSA.
 
 * [**sqlite-git**](https://github.com/MayCXC/sqlite-git) *(C/sqlite3.h)* - SQLite extension exposing git plumbing and a local helper backend via libgit2.
 

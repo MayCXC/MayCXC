@@ -11,6 +11,21 @@ X=
 \end{Bmatrix}
 $$ -->
 
+* [**osa-mcp**](https://github.com/MayCXC/osa-mcp) *(TS/JXA/Bun)* - MCP server that generates tools from macOS scriptable apps via OSA.
+
+* [**sqlite-git**](https://github.com/MayCXC/sqlite-git) *(C/sqlite3.h)* - SQLite extension exposing git plumbing and a local helper backend via libgit2.
+
+* [**sqlite-mmr**](https://github.com/MayCXC/sqlite-mmr) *(C/sqlite3.h)* - SQLite Maximal Marginal Relevance reranking virtual table.
+
+* [**sqlite-zstd**](https://github.com/MayCXC/sqlite-zstd) *C/sqlite3.h* - SQLite seekable archive.
+
+* [**kink**](https://github.com/MayCXC/kink) *(Ruby)* - kink is an alternative loop.
+
+* [**envy**](https://github.com/MayCXC/envy) *(POSIX sh)* - stackable and composable sh profiles.
+
+<details>
+<summary>more</summary>
+
 ## IoT:
 * [**Quick**](https://github.com/MayCXC/Quick) *(C/esp-mdf/elixir/Eclipse Paho)* - Bluetooth Low Energy presence detection meshnet
 
@@ -44,6 +59,8 @@ $$ -->
 * [**COWOL**](https://github.com/MayCXC/COWOL) *(Enterprise COBOL/REXX/Bourne shell)* - CObol WithOut Leave, entry for IBM MTM 2020
 
 * [**The-Opiate-Crisis**](https://github.com/MayCXC/The-Opiate-Crisis) *(Node\.js/Vue/Express/Heroku)* - The Bobconcatenators' entry for CTC 2018
+
+</details>
 
 ___
 

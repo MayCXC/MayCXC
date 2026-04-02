@@ -17,7 +17,7 @@ $$ -->
 
 * [**sqlite-mmr**](https://github.com/MayCXC/sqlite-mmr) *(C/sqlite3.h)* - SQLite Maximal Marginal Relevance reranking virtual table.
 
-* [**sqlite-zstd**](https://github.com/MayCXC/sqlite-zstd) *C/sqlite3.h* - SQLite seekable archive.
+* [**sqlite-zstd**](https://github.com/MayCXC/sqlite-zstd) *(C/sqlite3.h)* - SQLite seekable archive.
 
 * [**kink**](https://github.com/MayCXC/kink) *(Ruby)* - kink is an alternative loop.
 

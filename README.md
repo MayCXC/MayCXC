@@ -11,6 +11,8 @@ X=
 \end{Bmatrix}
 $$ -->
 
+## Projects:
+
 * [**osa-mcp**](https://github.com/MayCXC/osa-mcp) *(TS/JXA/Bun)* - MCP server that generates tools from macOS scriptable apps via OSA.
 
 * [**sqlite-git**](https://github.com/MayCXC/sqlite-git) *(C/sqlite3.h)* - SQLite extension exposing git plumbing and a local helper backend via libgit2.
@@ -27,11 +29,13 @@ $$ -->
 <summary>more</summary>
 
 ## IoT:
+
 * [**Quick**](https://github.com/MayCXC/Quick) *(C/esp-mdf/elixir/Eclipse Paho)* - Bluetooth Low Energy presence detection meshnet
 
 * [**Complexity**](https://github.com/MayCXC/Complexity) *(C++/Arduino)* - Arduino programs for the Blizzard escape room at Complexity Rooms
 
 ## Hobby:
+
 * [**Reis**](https://github.com/MayCXC/Reis) *(Java/LWJGL3/GLSL)* - Voxel renderer and game engine experiment
 
 * [**PLEBS**](https://github.com/MayCXC/PLEBS) *(Bash)* - Project euLEr in BaSh
@@ -50,6 +54,7 @@ $$ -->
 * [**DIPC**](https://github.com/MayCXC/DIPC) *(Python/Matplotlib/ASE)* - Van der Waals heterostructure simulation project for DIPC
 
 ## Competition:
+
 * [**Dyalog-21**](https://github.com/MayCXC/Dyalog-21) *(Dyalog APL)* - Solutions for Dyalog's 2021 APL Problem Solving Competition
 
 * [**AoC-2021**](https://github.com/MayCXC/AoC-2021) *(Scala)* - Solutions for the seventh annual Advent of Code

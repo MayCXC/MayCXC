@@ -17,7 +17,7 @@ $$ -->
 
 * [**sqlite-git**](https://github.com/MayCXC/sqlite-git) *(C/sqlite3.h/git2.h)* - SQLite git plumbing and local helper backend via libgit2.
 
-* [**sqlite-mmr**](https://github.com/MayCXC/sqlite-mmr) *(C/sqlite3.h)* - SQLite Maximal Marginal Relevance reranking virtual table.
+* [**sqlite-mmr**](https://github.com/MayCXC/sqlite-mmr) *(C/sqlite3.h)* - SQLite Maximal Marginal Relevance reranking virtual table with fts5 support.
 
 * [**sqlite-zstd**](https://github.com/MayCXC/sqlite-zstd) *(C/sqlite3.h/zstd.h)* - SQLite zstd compression functions for seekable archives.
 

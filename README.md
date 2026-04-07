@@ -15,11 +15,11 @@ $$ -->
 
 * [**osa-mcp**](https://github.com/MayCXC/osa-mcp) *(TS/Bun/AppleScript/JXA)* - MCP server that generates tools from macOS scriptable apps via OSA.
 
-* [**sqlite-git**](https://github.com/MayCXC/sqlite-git) *(C/sqlite3.h)* - SQLite git plumbing and local helper backend via libgit2.
+* [**sqlite-git**](https://github.com/MayCXC/sqlite-git) *(C/sqlite3.h/git2.h)* - SQLite git plumbing and local helper backend via libgit2.
 
 * [**sqlite-mmr**](https://github.com/MayCXC/sqlite-mmr) *(C/sqlite3.h)* - SQLite Maximal Marginal Relevance reranking virtual table.
 
-* [**sqlite-zstd**](https://github.com/MayCXC/sqlite-zstd) *(C/sqlite3.h)* - SQLite zstd compression functions for seekable archives.
+* [**sqlite-zstd**](https://github.com/MayCXC/sqlite-zstd) *(C/sqlite3.h/zstd.h)* - SQLite zstd compression functions for seekable archives.
 
 * [**kink**](https://github.com/MayCXC/kink) *(Ruby)* - kink is an alternative loop.
 
